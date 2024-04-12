@@ -16,4 +16,9 @@ public class TaskTest {
         assertTrue(testTask.getName().equals(taskName));
         assertTrue(testTask.getDescription().equals(taskDesc));
     }
+
+    @Test
+    public void setIdTest(){
+        
+    }
 }
